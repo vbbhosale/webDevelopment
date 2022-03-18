@@ -1,0 +1,17 @@
+#outer {
+    background-color: gray;
+    height: 400px;
+    width: 400px;
+    border: 1px solid gray;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    background-color: deepskyblue;
+    height: 120px;
+    width: 120px;
+    padding: 5px;
+}
